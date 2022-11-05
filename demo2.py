@@ -1,0 +1,1 @@
+print("Param patel ",end=' ') ; print("The easylearn",end=" ") ;print("Akshar vadi ");
