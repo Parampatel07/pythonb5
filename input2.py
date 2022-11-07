@@ -1,4 +1,4 @@
-# area of triagnl e 
+# area of triagnle 
 height = int(input("Enter value of height "))
 base = int(input("Enter value of base "))
 
