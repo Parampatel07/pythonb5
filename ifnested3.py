@@ -19,4 +19,6 @@ Enter 6 for saturn
 Enter 7 for Uranus 
 Enter 8 for Neptune '''))
 
-
+answer=0
+if  planet1==3 and planet2==5:
+    answer=149600000-778600000
