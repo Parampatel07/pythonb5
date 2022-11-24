@@ -25,3 +25,5 @@ loop
 5 , 10 , 15 , 20, 25 ,30 35 .. 600
 
 write a programe print all odd number 
+
+https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
